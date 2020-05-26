@@ -20,7 +20,7 @@ hr.light {
 
 a {
     @include transition-all;
-    color: $theme-primary;
+    color: $theme-dark;
     &:hover,
     &:focus {
         color: darken($theme-primary, 10%);
@@ -52,7 +52,7 @@ p {
 }
 
 .text-faded {
-    color: rgba(white, .7);
+    color: rgba(white, .9);
 }
 
 section {
