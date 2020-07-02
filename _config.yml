@@ -1,3 +1,8 @@
+collections:
+    training:
+      output: true
+   
+
 # Site settings
 title: QuadraLogics
 email: info@quadralogics.com
