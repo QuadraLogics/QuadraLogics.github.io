@@ -78,5 +78,5 @@ CTALink: https://www.townscript.com/widget/containerization-using-docker-and-kub
 
 certificateHeader: Sample certificate and Badge 
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/kurbernets.jpg
-certificateBadgeLink: ../img/portfolio/5.png
+certificateBadgeLink: ../img/portfolio/badges/docker_k8_Badge.jpg
 ---

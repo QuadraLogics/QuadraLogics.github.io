@@ -54,6 +54,6 @@ CTAHead2:
 CTALink: https://www.townscript.com/widget/devops-master-architect-workshop-4-303123
 
 certificateHeader: Sample certificate and Badge 
-certificateLink: https://devopsmasterclass.github.io/img/portfolio/kurbernets.jpg
-certificateBadgeLink: ../img/portfolio/5.png
+certificateLink: https://devopsmasterclass.github.io/img/portfolio/master.jpg
+certificateBadgeLink: ../img/portfolio/badges/9toolsbadge.jpg
 ---
