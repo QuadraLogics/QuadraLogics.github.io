@@ -1,19 +1,19 @@
 ---
 layout: training
 
-Head1: Mastering <br/> Infrastructure as Code <br/> using Ansible
+Head1: DevOps <br/> Master Architect <br/> Workshop 
 Head2: Learn from the comfort of your home
-Head3: 12 hours of the instructor-led, live , hands-on workshop
+Head3: 72 hours of the instructor-led, live , hands-on workshop
 BGImagelink: https://devopsmasterclass.github.io/img/header.jpg
 HeadCTA: Enroll
 
 ServicesHeading: Key Features
 
-Services1H: 12 hours of learning
-Services1: 12 hours of the instructor-led, live online hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced.
+Services1H: 72 hours of learning
+Services1: 72 hours of the instructor-led, live online hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced.
 
 Services2H: Doubt clearance session
-Services2: 3 hours of dedicated Doubt clearance session included.
+Services2: For every 6 hours of training, 3 hours of dedicated Doubt clearance session included.
 
 Services3H: Certification Included 
 Services3: Participants who successfully complete the workshop would be awarded a digital and verifiable certificate hosted on certifyme.online 
@@ -22,7 +22,7 @@ Services4H: Class recording
 Services4: Unable to make it to a class, we have covered you, we will upload the class recording to our LMS website and you will have exclusive access to it for the next 6 months.
 
 USPH: QuadraLogics Advantage
-USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since our inception in 2014, QuadraLogics has facilitated more than 70+ corporate and public workshops enabling more than 2000+ practitioners. We are trusted partners with global brands like Pluralsight, Udacity, KnowledgeHut, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market.Hence enrolling your self with our programs entitles you to avail the program at a wholesale price. Building on our experience our industry experts have carefully handcrafted the workshop "Mastering Infrastructure as Code  using Ansible", we use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 30+ hands on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive after the workshop.
+USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since our inception in 2014, QuadraLogics has facilitated more than 70+ corporate and public workshops enabling more than 2000+ practitioners. We are trusted partners with global brands like Pluralsight, Udacity, KnowledgeHut, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market.Hence enrolling your self with our programs entitles you to avail the program at a wholesale price. Building on our experience our industry experts have carefully handcrafted the workshop "DevOps Master Architect". We use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive after the workshop.
 
 TContentH: Course contents
 TContentB: 
