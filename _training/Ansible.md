@@ -50,7 +50,7 @@ TContentB:
     22 Ansible Tower Fundamentals<br/>
     23 Best practices with Ansible <br/>
 
-TContentLink:
+TContentLink: https://drive.google.com/file/d/1CCktjOzIcQVsFkkNdIHfla5aKirahPMX/view?usp=sharing
 
 portfolioHeaderA:  Unedited Demo Class 
 
