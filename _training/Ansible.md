@@ -67,4 +67,8 @@ CTALink: https://www.townscript.com/widget/iacusingansiblequadralogics
 certificateHeader: Sample certificate and Badge 
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/kurbernets.jpg
 certificateBadgeLink: ../img/portfolio/5.png
+
+socialTitle: Ansible Workshop
+SocialImage: Ansible.png
+
 ---

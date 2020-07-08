@@ -56,4 +56,7 @@ CTALink: https://www.townscript.com/widget/devops-master-architect-workshop-4-30
 certificateHeader: Sample certificate and Badge 
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/master.jpg
 certificateBadgeLink: ../img/badges/9toolsbadge.jpg
+
+socialTitle: DevOps Master Workshop
+SocialImage: DMW.png
 ---
