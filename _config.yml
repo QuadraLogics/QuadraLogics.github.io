@@ -1,6 +1,8 @@
 collections:
     training:
       output: true
+    research:
+      output: true
    
 
 # Site settings
