@@ -1,6 +1,8 @@
 collections:
     training:
       output: true
+    selfpacetraining:
+      output: true
     research:
       output: true
    
