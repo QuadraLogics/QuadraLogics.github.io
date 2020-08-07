@@ -1,7 +1,95 @@
-<footer class="bg-dark">
-    <div class="container text-center">
-        <div class="call-to-action">
-            <p>{{site.footer}}</p>           
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-4">
+          <h6>Address</h6>
+          
+          <p  > Cochin : 32/2056 M, Mythri Lane, Anjumana Road, Mamangalam, Ernakulam,India - 682024</p>
+          <p> Bangalore : 1701 MIG B1, Vindhyagiri , Kannamangala , Greater Whitefeild ,India - 560067</p>
+   
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#26272b; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://quadralogics.us17.list-manage.com/subscribe/post?u=53bb905927cbf999603468770&amp;id=09561987d4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to our Research Reports</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_53bb905927cbf999603468770_09561987d4" tabindex="-1" value=""></div>
+    <div class="clear"><input style= "background-color:purple" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+
+
+<!--End mc_embed_signup-->
         </div>
+
+        <div class="col-xs-6 col-md-2">
+          <h6>Live Workshops</h6>
+          <ul class="footer-links">
+            {% for training in site.training %}
+            <li><a href="{{training.url}}">{{training.socialTitle}}</a></li>
+
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="col-xs-6 col-md-2">
+          <h6>Self-paced Workshops</h6>
+          <ul class="footer-links">
+            {% for training in site.selfpacetraining %}
+            <li><a href="{{training.url}}">{{training.socialTitle}}</a></li>
+
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col-xs-6 col-md-2">
+            <h6>Research Reports</h6>
+            <ul class="footer-links">
+              {% for training in site.research %}
+              <li><a href="{{training.url}}">{{training.title}}</a></li>
+  
+              {% endfor %}
+            </ul>
+          </div>
+        <div class="col-xs-6 col-md-2">
+            <h6>Quick Links</h6>
+            <ul class="footer-links">
+              <li><a href="#about">About Us</a></li>
+              <li><a href="#contact">Contact Us</a></li>
+              <li><a href="https://certifyme.online/">CertifyMe.Online</a></li>
+ 
+            </ul>
+          </div>
+
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by 
+       <a href="www.quadrlaogics.com">QUADRALOGICS</a>.
+          </p>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <ul class="social-icons">
+            <li><a class="facebook" href="https://www.facebook.com/pages/category/Information-Technology-Company/QuadraLogics-259480081360021/"><i class="fa fa-facebook"></i></a></li>
+           
+            <li><a class="dribbble" href="https://www.youtube.com/channel/UCP_-gjz9oR1aUxub-T-JL6Q"><i class="fa fa-youtube"></i></a></li>
+            <li><a class="linkedin" href="https://www.linkedin.com/company/quadralogics"><i class="fa fa-linkedin"></i></a></li>   
+          </ul>
+        </div>
+      </div>
     </div>
 </footer>
