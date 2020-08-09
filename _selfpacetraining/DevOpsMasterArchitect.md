@@ -61,3 +61,11 @@ certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 socialTitle: DevOps Master Workshop
 SocialImage: SDMW.png
 ---
+This is a self-paced workshop and the participant ahs 12 months to complete the workshop assignments and capstone project.
+
+#### Prerequisite
+
+1. Knowledge of Basic Linux systems commands  
+2. No prior Developing/scripting skill is need by the Trainee must have to will to learn and code along with with the trainer 
+3. An SSH terminal to access VM's in the cloud 
+4. The trainee would be asked to create their VM in their desired cloud provider hence an SSH terminal to access VM's in the cloud is needed.

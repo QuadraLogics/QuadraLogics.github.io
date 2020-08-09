@@ -60,3 +60,34 @@ certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 socialTitle: DevOps Master Workshop
 SocialImage: DMW.png
 ---
+
+
+
+{: .table .table-striped}
+| #        | Session Date     |  Live Workshop (IST) | Live Doubt Clearance  (IST) |
+|-------|--------|-------|--------|
+| 1| 5.Sep | 7~10pm | 10~ 11:30pm|
+| 2| 6.Sep |  7~10pm | 10~ 11:30pm|
+| 3| 12.Sep | 7~10pm | 10~ 11:30pm|
+| 4| 13.Sep |  7~10pm | 10~ 11:30pm|
+| 5| 19.Sep | 7~10pm | 10~ 11:30pm|
+| 6| 20.Sep | 7~10pm | 10~ 11:30pm|
+| 7| 26.Sep | 7~10pm | 10~ 11:30pm|
+| 8| 27.Sep |  7~10pm | 10~ 11:30pm|
+| 9| 03.Oct | 7~10pm | 10~ 11:30pm|
+| 10|04.Oct | 7~10pm | 10~ 11:30pm|
+| 11|10.Oct |7~10pm | 10~ 11:30pm|
+| 12| 11.Oct |7~10pm | 10~ 11:30pm|
+| 13| 17.Oct | 7~10pm | 10~ 11:30pm|
+| 14| 18.Oct | 7~10pm | 10~ 11:30pm|
+| 15| 24.Oct |7~10pm | 10~ 11:30pm|
+| 16| 25.Oct |7~10pm | 10~ 11:30pm|
+
+###### 1.Nov ~ 30.Nov - Capstone Project , 3 hrs 1X1 Mentoring 
+
+#### Prerequisite
+
+1. Knowledge of Basic Linux systems commands  
+2. No prior Developing/scripting skill is need by the Trainee must have to will to learn and code along with with the trainer 
+3. An SSH terminal to access VM's in the cloud 
+4. The trainee would be asked to create their VM in their desired cloud provider hence an SSH terminal to access VM's in the cloud is needed.

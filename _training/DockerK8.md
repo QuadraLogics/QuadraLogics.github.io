@@ -83,3 +83,17 @@ certificateBadgeLink: ../img/badges/docker_k8_Badge.jpg
 socialTitle: Docker and Kubernetes Workshop
 SocialImage: DockerK8.png
 ---
+
+{: .table .table-striped}
+| #        | Session Date     |  Time (IST) | Description |
+|1| 8.Sep| 7~11pm | Hands-on workshop on Docker - Basic to intermediate topics |
+|2| 9.Sep| 7~11pm | Hands-on workshop -  Docker Advanced  and Kubernetes basic topics |
+|3| 10.Sep| 7~11pm | Hands-on workshop - Kubernetes intermediate to advanced topics |
+|4| 11.Sep| 7~10pm | Dedicated doubt clearance session |
+
+#### Prerequisite
+
+1. Knowledge of Basic Linux systems commands  
+2. No prior Developing/scripting skill is need by the Trainee must have to will to learn and code along with with the trainer 
+3. An SSH terminal to access VM's in the cloud 
+4. The trainee would be asked to create their VM in their desired cloud provider hence an SSH terminal to access VM's in the cloud is needed.

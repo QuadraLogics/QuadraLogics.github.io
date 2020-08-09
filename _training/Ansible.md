@@ -72,3 +72,16 @@ socialTitle: Ansible Workshop
 SocialImage: Ansible.png
 
 ---
+{: .table .table-striped}
+| #        | Session Date     |  Time (IST) | Description |
+|1| 25.Sep| 8~11pm | Fundamentals of Ansible |
+|2| 26.Sep| 8~11pm | Intermediate concepts of Ansible |
+|3| 27.Sep| 8~11pm | Advanced topics on Ansible |
+|4| 28.Sep| 8~11pm | Dedicated doubt clearance session |
+
+#### Prerequisite
+
+1. Knowledge of Basic Linux systems commands  
+2. No prior Developing/scripting skill is need by the Trainee must have to will to learn and code along with with the trainer 
+3. An SSH terminal to access VM's in the cloud 
+4. The trainee would be asked to create their VM in their desired cloud provider hence an SSH terminal to access VM's in the cloud is needed.
