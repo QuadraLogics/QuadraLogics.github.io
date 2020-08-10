@@ -41,7 +41,7 @@ TContentB:
     11 Monitoring with Nagios <br/>
     
     <br/>
-    The <B>DevOps Master Architect Workshop</b> is a holistic, comprehensive program that covers 11 most leading tools used across the DevOps spectrum. In this Workshop recording we use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands-on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive from day 1. The program also includes 3 hours of dedicated doubt clearance sessions for every 6 hours of workshop to ensure your doubts are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per batch.
+    The <B>DevOps Master Architect Workshop</b> is a holistic, comprehensive program that covers 11 most leading tools used across the DevOps spectrum. In this Workshop recording we use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands-on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive from day 1. 
 
 TContentLink: https://drive.google.com/u/0/uc?id=1jIOXTEolfSOy2nYpC1QxoVlfX_xn5Fns&export=download
 
