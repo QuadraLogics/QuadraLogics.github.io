@@ -1,5 +1,5 @@
 ---
-layout: training
+layout: selfPacedTraining
 
 Head1: Self Paced <br/> DevOps Master Architect <br/> Workshop 
 Head2: Learn from the comfort of your home
@@ -27,6 +27,7 @@ USP: Quadralogics is a boutique training firm that specializes in DevOps trainin
 
 TContentH: Course contents
 TContentB: 
+
     1 Source code management using Git <br/>
     2 Pipeline as a code using Jenkins <br/>
     3 Containerization using Docker <br/>
@@ -61,7 +62,7 @@ certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 socialTitle: DevOps Master Workshop
 SocialImage: SDMW.png
 ---
-This is a self-paced workshop and the participant ahs 12 months to complete the workshop assignments and capstone project.
+This is a self-paced workshop and the participant has 3 to 15 months to complete the workshop assignments and capstone project.
 
 #### Prerequisite
 
