@@ -10,33 +10,36 @@ HeadCTA: Enroll
 ServicesHeading: Key Features
 
 Services1H: 72 hours of learning
-Services1: 72 hours of the instructor-led, live online hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced.
+Services1: 72 hours of the instructor-led, live online hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced. Tools that will get covered are Git , Jenkins , Docker ,Kubernetes ,Ansible ,Puppet ,Chef ,AWS CloudFormation, Terraform ,InSpec & Nagios.
 
-Services2H: Doubt clearance session
-Services2: For every 6 hours of training, 3 hours of dedicated Doubt clearance session included.
+Services2H: 200+ hand-on scenario
+Services2: The program includes 200+ hand-on scenario and 1 hands-on capstone project to ensure learning is more practical over just being theoretical. This task-based learning enables the candidate to be productive immediately after the training also for every 6 hours of training, 3 hours of dedicated Doubt clearance session included.
 
-Services3H: Certification Included 
-Services3: Participants who successfully complete the workshop would be awarded a digital and verifiable certificate hosted on certifyme.online 
+Services3H: 11 Certifications  
+Services3: Participants who successfully complete the workshop would be awarded a verifiable digital certificate hosted on certifyme.online . Along with the master certificate, candidates will have an opportunity to earn 11 individual certifications & badges across 11 tools that we would be covering in the hand-on workshop.
 
 Services4H: Class recording
-Services4: Unable to make it to a class, we have covered you, we will upload the class recording to our LMS website and you will have exclusive access to it for the next 6 months.
+Services4: Unable to make it to a class, we have covered you, we will upload the class recording to our LMS website and you will have exclusive access to it for the next 6 months. You can access your content from your laptop or your mobile/tablet.
 
 USPH: QuadraLogics Advantage
 USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since our inception in 2014, QuadraLogics has facilitated more than 70+ corporate and public workshops enabling more than 2000+ practitioners. We are trusted partners with global brands like Pluralsight, Udacity, KnowledgeHut, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market.Hence enrolling your self with our programs entitles you to avail the program at a wholesale price. Building on our experience our industry experts have carefully handcrafted the workshop "DevOps Master Architect". We use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive after the workshop.
 
 TContentH: Course contents
 TContentB: 
-    1 Source code management using Git <br/>
-    2 Pipeline as a code using Jenkins <br/>
-    3 Containerization using Docker <br/>
-    4 Container orchestration with Kubernetes <br/>
-    5 Infrastructure as code using Ansible <br/>
-    6 Puppet in action <br/>
-    7 Hands-on with Chef <br/>
-    8 Provisioning with AWS CloudFormation <br/>
-    9 Cloud Agnostic provisioning using Terraform<br/>
-    10 Compliance as a code using Chef InSpec <br/>
-    11 Monitoring with Nagios <br/>
+    1. Source code management using Git <br/>
+    2. Pipeline as a code using Jenkins <br/>
+    3. Containerization using Docker <br/>
+    4. Container orchestration with Kubernetes <br/>
+    5. Infrastructure as code using Ansible <br/>
+    6. Puppet in action <br/>
+    7. Hands-on with Chef <br/>
+    8. Provisioning with AWS CloudFormation <br/>
+    9. Cloud Agnostic provisioning using Terraform<br/>
+    10. Compliance as a code using Chef InSpec <br/>
+    11. Monitoring with Nagios <br/>
+
+    <br/>
+    The <B>DevOps Master Architect Workshop</b> is a holistic, comprehensive program that covers 11 most leading tools used across the DevOps spectrum. This program spans for 12 weeks which includes 8 weeks of live workshops and 4 weeks for a capstone project. We use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive from day 1. The program also includes 3 hours of dedicated doubt clearances sessions for every 6 hours of workshop to ensure your doubts and clarifications are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per batch.
     
 
 TContentLink: https://drive.google.com/u/0/uc?id=1jIOXTEolfSOy2nYpC1QxoVlfX_xn5Fns&export=download
