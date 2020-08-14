@@ -15,7 +15,7 @@ head : Terms and Conditions
 
 ### Privacy
 
-2.1  Any personal information submitted in connection with your use of the Sites is subject to our Privacy Policy which is available at www.quadralogics/privacyPolicy the terms of which are hereby incorporated into these Terms by reference. Please review our Privacy Policy to understand our practices.
+2.1  Any personal information submitted in connection with your use of the Sites is subject to our Privacy Policy which is available at www.quadralogics/PrivacyPolicy the terms of which are hereby incorporated into these Terms by reference. Please review our Privacy Policy to understand our practices.
 
 2.2   The User may obtain certain confidential information, including without limitation, technical, contractual, product, pricing and other valuable information that should reasonably be understood as confidential (“Confidential Information”). The User acknowledges and agrees to hold all Confidential Information in strict confidence. Title and all interests to all Confidential Information shall be vested in the Company. The User’s obligations regarding Confidential Information will survive the termination of these Terms of Use in accordance with the clause on ‘Termination’ below. The User agrees that its obligations under this clause is necessary and reasonable in order to protect the Company’s business and expressly agrees that monetary damages would be inadequate to compensate for any breach of any covenant or agreement set forth herein. Accordingly, the User agrees and acknowledges that any such violation or threatened violation will cause irreparable harm and injury to the Company and that, in addition to any other remedies that may be available, in law, equity or otherwise, the Company shall be entitled to obtain injunctive relief against the threatened breach of these terms or the continuation of any such breach.
 
@@ -133,11 +133,10 @@ Copyright
 
 13.1.16   Assist or permit any persons in engaging in any of the activities described above.
 
-### Refund / Swap / Batch-shift
+### Refund 
 
-14.1   We do not offer any kind of refund across our programs 
-
-    14.2 Batch shift option will be available at the sole discretion of the management .
+Please refer to our Refund Policy to understand our Refund Policy located at 
+https://quadralogics.com/info/RefundPolicy.html
     
 ### Procedure for Reporting Claimed Infringement
 15.1   If you believe that any content made available on or through the Company Products has been used or exploited in a manner that infringes an intellectual property right you own or control, then please promptly send a "Notification of Claimed Infringement" containing the following information to the Company address. Your communication must include substantially the following:

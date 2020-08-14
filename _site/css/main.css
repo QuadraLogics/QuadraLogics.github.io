@@ -226,4 +226,12 @@ html { box-sizing: border-box; font-family: 'Open Sans', sans-serif; }
 
 .pricing-button.is-featured:hover, .pricing-button.is-featured:active { background-color: #269aff; }
 
+.testimonial { font-family: 'Poppins', sans-serif; }
+
+.testimonial_subtitle { color: purple; font-size: 12px; }
+
+.testimonial_btn { background-color: #373d4b !important; color: #fff !important; }
+
+.seprator { height: 2px; width: 56px; background-color: purple; margin: 7px 0 10px 0; }
+
 /*# sourceMappingURL=main.css.map */
