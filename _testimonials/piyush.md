@@ -5,7 +5,7 @@ Company: Tech Mahindra
 Dp: https://quadralogics.com/img/testimonial/piyush.jpg
 Program:
 ---
-###"YOU TRULY GET OUT WHAT YOU PUT IN"
+"YOU TRULY GET OUT WHAT YOU PUT IN"
 
 Obviously its natural to be skeptical you buy anything from internet.I have purchased quadralogics Devops program hosted by Anju and at end of the course I didn't regret.
 
