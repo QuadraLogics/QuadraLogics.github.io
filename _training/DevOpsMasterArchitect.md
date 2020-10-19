@@ -54,7 +54,8 @@ portfolioHeaderLink: https://www.youtube.com/embed/5V0ID_4lGWc?start=12
 
 CTAHead1: Buy your tickets
 CTAHead2:
-CTALink: https://www.townscript.com/widget/devops-master-architect-workshop-4-303123
+CTALink: https://www.townscript.com/e/devops-master-architect-workshop-jan
+                        
 
 certificateHeader: Sample certificate and Badge 
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/master.jpg
