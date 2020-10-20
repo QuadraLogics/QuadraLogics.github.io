@@ -87,7 +87,7 @@ SocialImage: DMW.png
 | 15|27.Feb |7~10pm | 10~ 11:30pm|
 | 16|28.Feb |7~10pm | 10~ 11:30pm|
 
-###### 1.Nov ~ 30.Nov - Capstone Project , 3 hrs 1X1 Mentoring 
+###### 28.Feb ~ 31.Mar - Capstone Project , 3 hrs 1X1 Mentoring 
 
 #### Prerequisite
 
