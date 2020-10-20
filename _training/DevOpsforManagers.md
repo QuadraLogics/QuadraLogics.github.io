@@ -67,7 +67,7 @@ SocialImage: DMW.png
 
 
 {: .table .table-striped}
-| #        | Session Date     |  Live Workshop (IST) | Live Doubt Clearance  (IST) |
+| #        | Session Date     |  Live Workshop (IST) |
 |-------|--------|-------|--------|
 | 1| 07.Nov | 7~10am | 
 | 2| 08.Nov |  7~10am | 
@@ -83,7 +83,5 @@ SocialImage: DMW.png
 
 #### Prerequisite
 
-1. Knowledge of Basic Linux system commands. We will also be providing few introductory videos of Linux fundamentals to get you started.  
-2. No prior Developing/scripting skill is needed by the Trainee. He/she must have the will to learn and code along with with the trainer. 
-3. A SSH terminal to access VM's in the cloud 
-4. The trainee would be asked to create their VM's in their desired cloud provider hence an SSH terminal to access VM's in the cloud is needed.
+1. Atleast 5 years of work experience in the IT industry.
+2. Beginner level knowledge of Agile and Lean principles.
