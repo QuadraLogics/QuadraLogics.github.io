@@ -62,7 +62,8 @@ portfolioHeaderLink: https://www.youtube.com/embed/5V0ID_4lGWc?start=12
 
 CTAHead1: Buy your tickets
 CTAHead2:
-CTALink: https://www.townscript.com/e/IaCUsingAnsibleQuadraLogics
+CTALink: https://www.townscript.com/e/IacUsingAnsibleQLS
+                        
                         
 
 certificateHeader: Sample certificate and Badge 
