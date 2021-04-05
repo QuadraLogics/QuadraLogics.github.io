@@ -62,7 +62,8 @@ portfolioHeaderLink: https://www.youtube.com/embed/5V0ID_4lGWc?start=12
 
 CTAHead1: Buy your tickets
 CTAHead2:
-CTALink: https://www.townscript.com/widget/iacusingansiblequadralogics
+CTALink: https://www.townscript.com/e/IaCUsingAnsibleQuadraLogics
+                        
 
 certificateHeader: Sample certificate and Badge 
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/kurbernets.jpg
@@ -74,10 +75,10 @@ SocialImage: Ansible.png
 ---
 {: .table .table-striped}
 | #        | Session Date     |  Time (IST) | Description |
-|1| 25.Sep| 8~11pm | Fundamentals of Ansible |
-|2| 26.Sep| 8~11pm | Intermediate concepts of Ansible |
-|3| 27.Sep| 8~11pm | Advanced topics on Ansible |
-|4| 28.Sep| 8~11pm | Dedicated doubt clearance session |
+|1| Day 1 | 7~10pm | Fundamentals of Ansible |
+|2| Day 2 | 7~10pm | Intermediate concepts of Ansible |
+|3| Day 3 | 7~10pm | Advanced topics on Ansible |
+|4| Day 4 | 7~10pm | Dedicated doubt clearance session |
 
 #### Prerequisite
 

@@ -74,7 +74,8 @@ portfolioHeaderLink: https://www.youtube.com/embed/5V0ID_4lGWc?start=12
 
 CTAHead1: Buy your tickets
 CTAHead2:
-CTALink: https://www.townscript.com/widget/containerization-using-docker-and-kubernetes-quadralogics
+CTALink: https://www.townscript.com/e/Containerization-using-Docker-and-Kubernetes-QLS
+                        
 
 certificateHeader: Sample certificate and Badge 
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/kurbernets.jpg
@@ -86,10 +87,10 @@ SocialImage: DockerK8.png
 
 {: .table .table-striped}
 | #        | Session Date     |  Time (IST) | Description |
-|1| 8.Sep| 7~11pm | Hands-on workshop on Docker - Basic to intermediate topics |
-|2| 9.Sep| 7~11pm | Hands-on workshop -  Docker Advanced  and Kubernetes basic topics |
-|3| 10.Sep| 7~11pm | Hands-on workshop - Kubernetes intermediate to advanced topics |
-|4| 11.Sep| 7~10pm | Dedicated doubt clearance session |
+|1| Day 1| 7~11pm | Hands-on workshop on Docker - Basic to intermediate topics |
+|2| Day 2| 7~11pm | Hands-on workshop -  Docker Advanced  and Kubernetes basic topics |
+|3| Day 3| 7~11pm | Hands-on workshop - Kubernetes intermediate to advanced topics |
+|4| Day 4| 7~10pm | Dedicated doubt clearance session |
 
 #### Prerequisite
 

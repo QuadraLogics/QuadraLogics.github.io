@@ -66,27 +66,6 @@ SocialImage: DMW.png
 ---
 
 
-
-{: .table .table-striped}
-| #        | Session Date     |  Live Workshop (IST) | Live Doubt Clearance  (IST) |
-|-------|--------|-------|--------|
-| 1| 09.Jan | 7~10pm | 10~ 11:30pm|
-| 2| 10.Jan |  7~10pm | 10~ 11:30pm|
-| 3| 16.Jan | 7~10pm | 10~ 11:30pm|
-| 4| 17.Jan |  7~10pm | 10~ 11:30pm|
-| 5| 23.Jan | 7~10pm | 10~ 11:30pm|
-| 6| 24.Jan | 7~10pm | 10~ 11:30pm|
-| 7| 30.Jan | 7~10pm | 10~ 11:30pm|
-| 8| 31.Jan |  7~10pm | 10~ 11:30pm|
-| 9| 06.Feb | 7~10pm | 10~ 11:30pm|
-| 10|07.Feb | 7~10pm | 10~ 11:30pm|
-| 11|13.Feb |7~10pm | 10~ 11:30pm|
-| 12|14.Feb |7~10pm | 10~ 11:30pm|
-| 13|20.Feb | 7~10pm | 10~ 11:30pm|
-| 14|21.Feb | 7~10pm | 10~ 11:30pm|
-| 15|27.Feb |7~10pm | 10~ 11:30pm|
-| 16|28.Feb |7~10pm | 10~ 11:30pm|
-
 ###### 28.Feb ~ 31.Mar - Capstone Project , 3 hrs 1X1 Mentoring 
 
 #### Prerequisite

@@ -53,7 +53,8 @@ portfolioHeaderLink: https://www.youtube.com/embed/5V0ID_4lGWc?start=12
 
 CTAHead1: Buy your tickets
 CTAHead2:
-CTALink: https://www.townscript.com/e/devopsformanagers
+CTALink: https://www.townscript.com/e/devopsformanagers-qls
+                        
                         
 
 certificateHeader: Sample certificate and Badge 
@@ -69,14 +70,14 @@ SocialImage: DMW.png
 {: .table .table-striped}
 | #        | Session Date     |  Live Workshop (IST) |
 |-------|--------|-------|--------|
-| 1| 07.Nov | 7~10am | 
-| 2| 08.Nov |  7~10am | 
-| 3| 21.Nov | 7~10am | 
-| 4| 22.Nov |  7~10am | 
-| 5| 28.Nov | 7~10am | 
-| 6| 29.Nov | 7~10am | 
-| 7| 05.Dec | 7~10am | 
-| 8| 06.Dec |  7~10am | 
+| 1| Day 1 | 7~10am | 
+| 2| Day 2 |  7~10am | 
+| 3| Day 3 | 7~10am | 
+| 4| Day 4 |  7~10am | 
+| 5| Day 5 | 7~10am | 
+| 6| Day 6 | 7~10am | 
+| 7| Day 7 | 7~10am | 
+| 8| Day 8 |  7~10am | 
 
 
 ###### 6.Dec ~ 20.Dec - Casestudy  
