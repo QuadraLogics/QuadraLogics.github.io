@@ -70,14 +70,14 @@ SocialImage: DMW.png
 {: .table .table-striped}
 | #        | Session Date     |  Live Workshop (IST) |
 |-------|--------|-------|--------|
-| 1| Day 1 | 7~10am | 
-| 2| Day 2 |  7~10am | 
-| 3| Day 3 | 7~10am | 
-| 4| Day 4 |  7~10am | 
-| 5| Day 5 | 7~10am | 
-| 6| Day 6 | 7~10am | 
-| 7| Day 7 | 7~10am | 
-| 8| Day 8 |  7~10am | 
+| 1| Day 1 | 7~10pm | 
+| 2| Day 2 |  7~10pm | 
+| 3| Day 3 | 7~10pm | 
+| 4| Day 4 |  7~10pm | 
+| 5| Day 5 | 7~10pm | 
+| 6| Day 6 | 7~10pm | 
+| 7| Day 7 | 7~10pm | 
+| 8| Day 8 |  7~10pm | 
 
 
 ###### 6.Dec ~ 20.Dec - Casestudy  

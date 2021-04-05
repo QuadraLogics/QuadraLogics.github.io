@@ -52,10 +52,9 @@ portfolioHeaderB1: Founder | Speaker | Author
 portfolioHeaderB1C: Anju M Dominic is a well accredited professional corporate trainer and consultant in the field of DevOps . She has conducted over 70+ hands-on workshops across different product and service companies. She is also a trainer/author across various training companies including PluralSight, Edureka, KnowledgeHut, etc. She is currently the Principal consultant and founder of QuadraLogics, a boutique training/consulting firm. Anju is well known for her contributions to technical articles which includes two books and several whitepapers in the field of software engineering. She is also a regular speaker for many DevOps and Agile conferences
 portfolioHeaderLink: https://www.youtube.com/embed/5V0ID_4lGWc?start=12
 
-CTAHead1: Buy your tickets
+CTAHead1: For more details reach out to info@quadralogics.com
 CTAHead2:
-CTALink: https://www.townscript.com/e/devops-master-architect-workshop-jan
-                        
+                      
 
 certificateHeader: Sample certificate and Badge 
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/master.jpg
@@ -65,8 +64,6 @@ socialTitle: DevOps Master Workshop
 SocialImage: DMW.png
 ---
 
-
-###### 28.Feb ~ 31.Mar - Capstone Project , 3 hrs 1X1 Mentoring 
 
 #### Prerequisite
 
