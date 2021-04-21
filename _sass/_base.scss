@@ -112,7 +112,7 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: rgba(white, .9);
             &:hover,
             &:focus {
                 color: white;
@@ -120,7 +120,7 @@ aside {
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: rgba(white, .9);
             &:hover {
                 color: white;
             }
@@ -158,6 +158,7 @@ header {
     background-image: url('../img/header.jpg');
     text-align: left;
     color: white;
+    
     .shade{
         width: 100%;
         height: 100%;
@@ -178,12 +179,18 @@ header {
                 margin-bottom: 0;
                 
                 
+                
+                
+                
             }
             h2 {
                 font-weight: 600;
+                background-color:rgba(rgb(0, 0, 0), .4);
                 
                 
-                
+            }
+            h4{
+              background-color:rgba(rgb(0, 0, 0), .4);
             }
             hr {
                 margin: 50px auto;
@@ -194,6 +201,7 @@ header {
                 color: rgba(rgb(248, 246, 246), .9);
                 font-size: 16px;
                 margin-bottom: 50px;
+               
             }
         }
     }
