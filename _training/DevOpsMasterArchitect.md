@@ -3,7 +3,7 @@ layout: dma
 
 Head1: DevOps <br/> Master Architect <br/> Workshop 
 Head2: Learn from the comfort of your home
-Head3: 72 hours of holistic learning 
+Head3: 72 +100 hours of holistic learning 
 BGImagelink: https://devopsmasterclass.github.io/img/header.jpg
 HeadCTA: Enroll
 
@@ -43,7 +43,7 @@ TContentB:
     15. Introduction to DevSecOps <br/>
 
     <br/>
-    The <b> DevOps Master Architect Workshop</b> is a holistic, comprehensive program that covers 11 most leading tools used across the DevOps spectrum. This program spans for 12 weeks which includes 8 weeks of live workshops and 4 weeks for a capstone project. We use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands-on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive from day 1. The program also includes 3 hours of dedicated doubt clearance sessions for every 6 hours of workshop to ensure your doubts are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per batch.
+    The <b> DevOps Master Architect Workshop</b> is a holistic, comprehensive program that covers 11 most leading tools used across the DevOps spectrum. This program spans for 12 weeks which includes 8 weeks of workshops and 4 weeks for a capstone project. We use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands-on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive from day 1. The program also includes 3 hours of dedicated doubt clearance sessions for every 6 hours of workshop to ensure your doubts are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per batch.
     
 
 TContentLink: https://drive.google.com/file/d/1vLWnNy6m2S319dKdY7qVg1eKOX_Qvnch/view?usp=sharing
