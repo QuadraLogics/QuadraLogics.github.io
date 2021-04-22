@@ -9,8 +9,8 @@ HeadCTA: Enroll
 
 ServicesHeading: Key Features
 
-Services1H: 72 hours of learning
-Services1: 72 hours of hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced. 
+Services1H: 72 hours workshop 
+Services1: 72 hours of hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced. 45 hours of workshops content & 24 hours LIVE doubt clearing session included .
 
 Services2H: 200+ hands-on scenarios
 Services2: The program includes 200+ hands-on scenarios and 1 hands-on capstone project to ensure learning is more practical over just being theoretical. 
