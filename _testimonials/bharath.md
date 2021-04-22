@@ -2,7 +2,7 @@
 Name : Bharath Swamy
 Designation: Enterprise Agile Coach  
 Company: Cisco
-Dp: https://media-exp1.licdn.com/dms/image/C4E03AQHebgEklyYrpw/profile-displayphoto-shrink_200_200/0?e=1602720000&v=beta&t=-aoHdXtJCwXWEakfMN7W7fOXQpn6QuzJWAjWD9v2cKc
+Dp: https://quadralogics.com/img/testimonial/b.jpg
 Program: 
 ---
 It took almost 2 months to learn popular 11 DevOps tools with every weekend spending 6 hours.
