@@ -64,7 +64,7 @@ certificateLink: https://devopsmasterclass.github.io/img/portfolio/master.jpg
 certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 
 socialTitle: DevOps Master Workshop
-SocialImage: DMW.png
+SocialImage: 5.png
 ---
 ##### Introduction Live Class  15.May.2021  8:00 pm to 9:00pm (IST)
 <br>
