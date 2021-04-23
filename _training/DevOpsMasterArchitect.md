@@ -42,8 +42,7 @@ TContentB:
     14. AWS DevOps <br/>
     15. Introduction to DevSecOps <br/>
 
-    <br/>
-    The <b> DevOps Master Architect Workshop</b> is a holistic, comprehensive program that covers 11 most leading tools used across the DevOps spectrum. This program spans for 12 weeks which includes 8 weeks of workshops and 4 weeks for a capstone project. We use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands-on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive from day 1. The program also includes 3 hours of dedicated doubt clearance sessions for every 6 hours of workshop to ensure your doubts are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per batch.
+    
     
 
 TContentLink: https://drive.google.com/file/d/1vLWnNy6m2S319dKdY7qVg1eKOX_Qvnch/view?usp=sharing
@@ -71,7 +70,7 @@ SocialImage: DMW.png
 <br>
 
 {: .table .table-striped}
-| Week        | Release of videos at 10:00 AM (IST) [~6 hrs per week ]  |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) [~3 hrs per week]|
+| Week        | Release of videos at 10:00 AM (IST)   |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) |
 |-------|--------|-------|--------|
 | 1| May 15 | - | 
 | 2| May 22 |  May 22 | 
