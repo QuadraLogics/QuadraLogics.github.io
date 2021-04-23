@@ -67,9 +67,11 @@ certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 socialTitle: DevOps Master Workshop
 SocialImage: DMW.png
 ---
+##### Introduction Live Class  15.May.2021  8:00 pm to 9:00pm (IST)
+<br>
 
 {: .table .table-striped}
-| Week        | Release of videos at 10:00 AM (IST)     |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) |
+| Week        | Release of videos at 10:00 AM (IST) [~6 hrs per week ]  |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) [~3 hrs per week]|
 |-------|--------|-------|--------|
 | 1| May 15 | - | 
 | 2| May 22 |  May 22 | 
@@ -81,15 +83,20 @@ SocialImage: DMW.png
 | 8| July 03 |  July 03 | 
 | 9|  |  July 10 | 
 
-##### Capstone projects July 15 th - Aug 15th
+* Capstone project July 15 th - Aug 15th (2021)
+* 1X1 Trainer Mentoring July 15 th - Aug 15th (2021)
+* 1x1 Industry Expert Mentoring July 15 th - Aug 15th (2021)
+* Team DevSecOps Maturity Assessment -  Aug 1st- Aug 15th (2021)
+
 <br>
 
 #### Prerequisite
 
-1. -Knowledge of Basic Linux systems commands
-2. -No prior Developing/scripting skill is need by the Trainee must have to will to learn and code along with with the trainer
-3.  -In case you have zero development or scripting skills do reach out to the trainer for additional training content
-4. -An SSH terminal to access VM’s in the cloud
-5.  -The trainee would be asked to create their VM in AWS cloud provider hence an SSH terminal to access VM’s in the cloud is needed.
-6.  -Trainees would have to create VM’s using his/her accounts and most of the training would get covered in AWS free tier servers. Only for a few advanced modules trainee would need to get high end systems for which trainee might need to spend a required amount in AWS.
+1. Knowledge of Basic Linux systems commands
+2. No prior Developing/scripting skill is need by the Trainee must have to will to learn and code along with with the trainer
+3. In case you have zero development or scripting skills do reach out to the trainer for additional training content . 
+4. An SSH terminal to access VM’s in the cloud
+5. The trainee would be asked to create their VM in AWS cloud provider hence an SSH terminal to access VM’s in the cloud is needed.
+6. Trainees would have to create VM’s using his/her accounts and most of the training would get covered in AWS free tier servers. Only for a few advanced modules trainee would need to get high end systems for which trainee might need to spend a required amount in AWS.
+7. Dedicate a minimum of 12 hrs per week. In case you are new to scripting and programming you need to carve out a few more hrs per week as your learning curve will be a bit slow.
 
