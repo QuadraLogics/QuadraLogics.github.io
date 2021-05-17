@@ -45,7 +45,7 @@ TContentB:
     
     
 
-TContentLink: https://drive.google.com/file/d/1vLWnNy6m2S319dKdY7qVg1eKOX_Qvnch/view?usp=sharing
+TContentLink: /res/DMAToC_8.pdf
 
 portfolioHeaderA:  Unedited Demo Class 
 
@@ -65,27 +65,27 @@ certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 
 socialTitle: DevOps Master Workshop
 SocialImage: 5.png
+
+RateIndia: Rs 12,500
+RateAbroad: $ 250
 ---
-##### Introduction Live Class  15.May.2021  8:00 pm to 9:00pm (IST)
+##### Introduction Live Class  13.June.2021  7:00 pm to 8:00pm (IST)
 <br>
 
 {: .table .table-striped}
 | Week        | Release of videos at 10:00 AM (IST)   |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) |
 |-------|--------|-------|--------|
-| 1| May 15 | - | 
-| 2| May 22 |  May 22 | 
-| 3| May 29 | May 29 | 
-| 4| June 05 |  June 05 | 
-| 5| June 12 | June 12 | 
-| 6| June 19 | June 19 | 
-| 7| June 26 | June 26 | 
-| 8| July 03 |  July 03 | 
-| 9|  |  July 10 | 
+| 1| June 12 | - | 
+| 2| June 19 |  June 20 | 
+| 3| June 26 | June 27 | 
+| 4| July 03 |  July 04 | 
+| 5| July 10  | July 11 | 
+| 6| July 17  | July 18 | 
+| 7| July 24  | July 25 | 
+| 8| July 31 |  Aug 01 | 
+| 9|  |  Aug 8 | 
 
-* Capstone project July 15 th - Aug 15th (2021)
-* 1X1 Trainer Mentoring July 15 th - Aug 15th (2021)
-* 1x1 Industry Expert Mentoring July 15 th - Aug 15th (2021)
-* Team DevSecOps Maturity Assessment -  Aug 1st- Aug 15th (2021)
+* Capstone project Aug 8 th - Sep 12th (2021)
 
 <br>
 
