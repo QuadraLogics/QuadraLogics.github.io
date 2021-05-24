@@ -3,7 +3,7 @@ layout: dma
 
 Head1: DevOps <br/> Master Architect <br/> Workshop 
 Head2: Use Case-based learning
-Head3: Learn by exploring 200+ real-world hands-on real-world examples
+Head3: Learn by exploring 200+ real-world hands-on examples
 BGImagelink: https://devopsmasterclass.github.io/img/header.jpg
 HeadCTA: Enroll
 
