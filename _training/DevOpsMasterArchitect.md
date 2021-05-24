@@ -2,27 +2,27 @@
 layout: dma
 
 Head1: DevOps <br/> Master Architect <br/> Workshop 
-Head2: Learn from the comfort of your home
-Head3: 72 +100 hours of holistic learning 
+Head2: Use Case-based learning
+Head3: Learn by exploring 200+ real-world hands-on real-world examples
 BGImagelink: https://devopsmasterclass.github.io/img/header.jpg
 HeadCTA: Enroll
 
 ServicesHeading: Key Features
 
 Services1H: 72 hours workshop 
-Services1: 72 hours of hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced. 45 hours of workshops content & 24 hours LIVE doubt clearing session included .
+Services1: 72 hours of the hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced. 45 hours of workshop content & 24 hours LIVE doubt clearing session included.
 
-Services2H: 200+ hands-on scenarios
-Services2: The program includes 200+ hands-on scenarios and 1 hands-on capstone project to ensure learning is more practical over just being theoretical. 
+Services2H: 200+ hands-on Use-case scenarios
+Services2: The program includes 200+ hands-on scenarios and 1 hands-on capstone project to ensure learning is more practical than just being theoretical. 
 
 Services3H: 15 + 1 Certifications  
-Services3: Participants who complete the workshop completing and all hands-on assignments would be awarded a verifiable digital certificate hosted on certifyme.online . 
+Services3: Participants who complete the workshop completing and all hands-on assignments would be awarded a verifiable digital credential hosted on certifyme.online . 
 
 Services4H: Bonus worth 300 $
-Services4: The bonuses include a personalized mentoring session with the trainer, a 1X1  mentoring session with an Industry veteran, 100+ hours of curated online video contents and 5 years of LMS access.
+Services4: The bonuses include 100+ hours of curated online video contents , Life time acess to QLs DevOps Community and 5 years of LMS access.
 
 USPH: QuadraLogics Advantage
-USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since our inception in 2014, QuadraLogics has facilitated more than 150+ corporate and public workshops enabling more than 10000+ practitioners. We are trusted partners with global brands like Pluralsight, Udacity, Coursera etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market. Building on our experience, our industry experts have carefully handcrafted the workshop "DevOps Master Architect". We use a technique called the “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands on,real-life scenarios. This unique style enables the practitioner to be more competent and highly productive after the workshop.
+USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since our inception in 2014, QuadraLogics has facilitated more than 150+ corporate and public workshops enabling more than 10000+ practitioners. We are trusted partners with global brands like Pluralsight, Udacity, Coursera, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market. Building on our experience, our industry experts have carefully handcrafted the workshop "DevOps Master Architect". We use a technique called “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands-on, real-life scenarios. This unique style enables the practitioner to be more competent and highly productive after the workshop.
 
 TContentH: Course contents
 TContentB: 
@@ -54,6 +54,16 @@ portfolioHeaderBN: Anju M Dominic
 portfolioHeaderB1: Founder | Speaker | Author
 portfolioHeaderB1C: Anju M Dominic is a well accredited professional corporate trainer and consultant in the field of DevOps . She has conducted over 150+ hands-on workshops across different product and service companies. She is also a trainer/author across various training companies including PluralSight, Edureka, KnowledgeHut, etc. She is currently the Principal consultant and founder of QuadraLogics, a boutique training/consulting firm. Anju is well known for her contributions to technical articles which includes two books and several whitepapers in the field of software engineering. She is also a regular speaker for many DevOps and Agile conferences
 portfolioHeaderLink: https://www.youtube.com/embed/5V0ID_4lGWc?start=12
+
+
+Feature1H: "<span>What is</span> Use Case-based learning <span>?"
+
+Feature1: Usecase-based learning approach engages learners in a hands-on exercise of specific scenarios that resemble real-world examples. This learner-centric method helps learners gain not only the required knowledge but the key skill to apply the gained knowledge. Focusing on learning how to apply knowledge is essential for practical subjects like DevOps. In our 12 weeks DevOps Master Architect program we use Use Case-based learning technique. Our practitioner learns by exploring 200+ hands-on, real-life scenarios. 
+ 
+Feature2H: "<span>The DevOps Master Architect Workshop is a </span>holistic, comprehensive program <span>that covers 15 most leading technology used across the DevOps spectrum.</span>"
+
+Feature2: This program spans 12 weeks which includes 8 weeks of workshops and 4 weeks for a capstone project.The program also includes 3 hours of dedicated LIVE doubt clearing sessions for every 6 hours of self-paced workshop content to ensure your doubts are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per LIVE doubt clearing session
+
 
 CTAHead1: For more details reach out to info@quadralogics.com
 CTAHead2:
