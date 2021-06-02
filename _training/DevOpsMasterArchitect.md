@@ -79,23 +79,23 @@ SocialImage: 5.png
 RateIndia: Rs 12,500
 RateAbroad: $ 250
 ---
-##### Introduction Live Class  13.June.2021  7:00 pm to 8:00pm (IST)
+##### Introduction Live Class  17.July.2021  7:00 pm to 8:00pm (IST)
 <br>
 
 {: .table .table-striped}
 | Week        | Release of videos at 10:00 AM (IST)   |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) |
 |-------|--------|-------|--------|
-| 1| June 12 | - | 
-| 2| June 19 |  June 20 | 
-| 3| June 26 | June 27 | 
-| 4| July 03 |  July 04 | 
-| 5| July 10  | July 11 | 
-| 6| July 17  | July 18 | 
-| 7| July 24  | July 25 | 
-| 8| July 31 |  Aug 01 | 
-| 9|  |  Aug 8 | 
+| 1| July 17 | - | 
+| 2| July 24 |  July 24| 
+| 3| July 31 | July 31 | 
+| 4| Aug 07  |  Aug 07  | 
+| 5| Aug 14  | Aug 14   | 
+| 6| Aug 21   | Aug 21  | 
+| 7| Aug 28   | Aug 28  | 
+| 8| Sept 04 |  sept 04| 
+| 9|  |  Sept 11 | 
 
-* Capstone project Aug 8 th - Sep 12th (2021)
+* Capstone project Sept 11th - Oct 12th (2021)
 
 <br>
 
