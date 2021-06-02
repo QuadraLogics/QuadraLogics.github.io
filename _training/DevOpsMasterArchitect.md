@@ -9,8 +9,8 @@ HeadCTA: Enroll
 
 ServicesHeading: Key Features
 
-Services1H: 72 hours workshop 
-Services1: 72 hours of the hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced. 45 hours of workshop content & 24 hours LIVE doubt clearing session included.
+Services1H: 60 hours workshop 
+Services1: 60 hours of the hands-on workshop. In-depth coverage of Basic to Advanced topics, ideal for beginners and experienced. 45 hours of workshop content &  LIVE doubt clearing session included.
 
 Services2H: 200+ hands-on Use-case scenarios
 Services2: The program includes 200+ hands-on scenarios and 1 hands-on capstone project to ensure learning is more practical than just being theoretical. 
@@ -19,7 +19,7 @@ Services3H: 15 + 1 Certifications
 Services3: Participants who complete the workshop completing and all hands-on assignments would be awarded a verifiable digital credential hosted on certifyme.online . 
 
 Services4H: Bonus worth 300 $
-Services4: The bonuses include 100+ hours of curated online video contents , Life time acess to QLs DevOps Community and 5 years of LMS access.
+Services4: The bonuses include 100+ hours of curated online video contents , Life time acess to QLs DevOps Community and 3 years of LMS access.
 
 USPH: QuadraLogics Advantage
 USP: Quadralogics is a boutique training firm that specializes in DevOps training and consulting. Since our inception in 2014, QuadraLogics has facilitated more than 150+ corporate and public workshops enabling more than 10000+ practitioners. We are trusted partners with global brands like Pluralsight, Udacity, Coursera, etc and enable them in designing/delivering technical content and training. Quadralogics today is one of the most trusted training/content producers and a premium player in the B2B DevOps market. Building on our experience, our industry experts have carefully handcrafted the workshop "DevOps Master Architect". We use a technique called “Task-based learning”. In this approach, the practitioner learns by exploring 200+ hands-on, real-life scenarios. This unique style enables the practitioner to be more competent and highly productive after the workshop.
@@ -62,7 +62,7 @@ Feature1: Usecase-based learning approach engages learners in a hands-on exercis
  
 Feature2H: "<span>The DevOps Master Architect Workshop is a </span>holistic, comprehensive program <span>that covers 15 most leading technology used across the DevOps spectrum.</span>"
 
-Feature2: This program spans 12 weeks which includes 8 weeks of workshops and 4 weeks for a capstone project.The program also includes 3 hours of dedicated LIVE doubt clearing sessions for every 6 hours of self-paced workshop content to ensure your doubts are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per LIVE doubt clearing session
+Feature2: This program spans 12 weeks which includes 8 weeks of workshops and 4 weeks for a capstone project.The program also includes 3 hours of dedicated LIVE doubt clearing sessions for every 2 weeks of self-paced workshop content to ensure your doubts are cleared and you are confident on the subject. In order to ensure high quality, we only intake a maximum of 20 students per LIVE doubt clearing session
 
 
 CTAHead1: For more details reach out to info@quadralogics.com
@@ -83,17 +83,17 @@ RateAbroad: $ 250
 <br>
 
 {: .table .table-striped}
-| Week        | Release of videos at 10:00 AM (IST)   |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) |
+| Week        | Release of videos at 10:00 AM (IST)   |  Live Doubt clearing session (07:00 PM- 10:00 PM IST) | 
 |-------|--------|-------|--------|
 | 1| July 17 | - | 
 | 2| July 24 |  July 24| 
-| 3| July 31 | July 31 | 
+| 3| July 31 | - | 
 | 4| Aug 07  |  Aug 07  | 
-| 5| Aug 14  | Aug 14   | 
+| 5| Aug 14  | -  | 
 | 6| Aug 21   | Aug 21  | 
-| 7| Aug 28   | Aug 28  | 
-| 8| Sept 04 |  sept 04| 
-| 9|  |  Sept 11 | 
+| 7| Aug 28   | -  | 
+| 8| Sept 04 |  Sept 11 | 
+
 
 * Capstone project Sept 11th - Oct 12th (2021)
 
