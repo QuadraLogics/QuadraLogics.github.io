@@ -1,4 +1,4 @@
-<section  id="allTrng">
+<section id="allTrng">
 
     <div class="container">
         <div class="row">
@@ -8,21 +8,25 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid container">
         <div>
 
             {% for training in site.selfpacetraining %}
             <a href="{{training.url}}" class="service-box1">
-            <div class="col-lg-6 col-sm-12 text-center">
-              
-                    <img src="../img/boxImage/{{training.SocialImage}}" class="img-responsive" alt="">
+               
+                    <div class="col-lg-6 col-sm-12 text-center "
+                        style="border: 2px solid purple;   padding: 15px;         border-radius: 5px;">
 
-                
-                <div class="text-center">
-                    <h3>{{training.socialTitle}}</h3>
+                        <img src="../img/boxImage/{{training.SocialImage}}" class="img-responsive" alt="">
+
+
+                        <div class="text-center">
+                            <h4>{{training.socialTitle}}</h4>
+
+                        </div>
                     
                 </div>
-            </div></a>
+            </a>
 
             {% endfor %}
 
@@ -41,21 +45,23 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid container">
         <div>
 
             {% for training in site.training %}
             <a href="{{training.url}}" class="service-box1">
-            <div class="col-lg-6 col-sm-12 text-center">
-              
+                <div class="col-lg-6 col-sm-12 text-center "
+                    style="border: 2px solid purple;   padding: 15px;         border-radius: 5px;">
+
                     <img src="../img/boxImage/{{training.SocialImage}}" class="img-responsive" alt="">
 
-                
-                <div class="text-center">
-                    <h3>{{training.socialTitle}}</h3>
-                    
+
+                    <div class="text-center">
+                        <h4>{{training.socialTitle}}</h4>
+
+                    </div>
                 </div>
-            </div></a>
+            </a>
 
             {% endfor %}
 
