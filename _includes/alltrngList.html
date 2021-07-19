@@ -12,10 +12,10 @@
         <div>
 
             {% for training in site.selfpacetraining %}
-            <a href="{{training.url}}" class="service-box1">
+            <a href="{{training.url}}" class="service-box1" onmouseover="this.style.color='blue';" onmouseout="this.style.color='';" >
                
                     <div class="col-lg-6 col-sm-12 text-center "
-                        style="border: 2px solid purple;   padding: 15px;         border-radius: 5px;">
+                    style="border: 2px solid gray;   margin-bottom: 15px;       border-radius: 5px;">
 
                         <img src="../img/boxImage/{{training.SocialImage}}" class="img-responsive" alt="">
 
@@ -49,9 +49,11 @@
         <div>
 
             {% for training in site.training %}
-            <a href="{{training.url}}" class="service-box1">
+            <a href="{{training.url}}" class="service-box1 " onmouseover="this.style.color='blue';" onmouseout="this.style.color='';" >
+            
                 <div class="col-lg-6 col-sm-12 text-center "
-                    style="border: 2px solid purple;   padding: 15px;         border-radius: 5px;">
+               
+                style="border: 2px solid gray;   margin-bottom: 15px;      border-radius: 5px; ">
 
                     <img src="../img/boxImage/{{training.SocialImage}}" class="img-responsive" alt="">
 
@@ -61,6 +63,7 @@
 
                     </div>
                 </div>
+            
             </a>
 
             {% endfor %}
