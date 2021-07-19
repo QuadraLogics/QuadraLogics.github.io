@@ -1,8 +1,9 @@
 <section  id="allTrng">
+
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Our Current Public Workshops </h2>
+                <h2 class="section-heading">Sef-Paced Hands-On Workshops </h2>
                 <hr class="primary">
             </div>
         </div>
@@ -10,17 +11,18 @@
     <div class="container-fluid">
         <div>
 
-            {% for training in site.training %}
-            <div class="col-lg-4 col-sm-6">
-                <a href="{{training.url}}" class="service-box1">
+            {% for training in site.selfpacetraining %}
+            <a href="{{training.url}}" class="service-box1">
+            <div class="col-lg-6 col-sm-12 text-center">
+              
                     <img src="../img/boxImage/{{training.SocialImage}}" class="img-responsive" alt="">
 
-                </a>
+                
                 <div class="text-center">
                     <h3>{{training.socialTitle}}</h3>
-                    <p>{{training.Head3}}</p>
+                    
                 </div>
-            </div>
+            </div></a>
 
             {% endfor %}
 
@@ -31,4 +33,38 @@
 
         </div>
     </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Corporate Hands-On Workshops </h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div>
+
+            {% for training in site.training %}
+            <a href="{{training.url}}" class="service-box1">
+            <div class="col-lg-6 col-sm-12 text-center">
+              
+                    <img src="../img/boxImage/{{training.SocialImage}}" class="img-responsive" alt="">
+
+                
+                <div class="text-center">
+                    <h3>{{training.socialTitle}}</h3>
+                    
+                </div>
+            </div></a>
+
+            {% endfor %}
+
+
+
+
+
+
+        </div>
+    </div>
+
 </section>
