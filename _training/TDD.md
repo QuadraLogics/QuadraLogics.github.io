@@ -44,7 +44,7 @@ Feature2: The Two day program is tailored for developers and testers who are not
 
 socialTitle: Test Driven Development
 
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/7.png
 
 
  

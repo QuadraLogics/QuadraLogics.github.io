@@ -30,9 +30,9 @@ TContentB:
 
 
 socialTitle: DevOps for Managers 
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/4.png
 
-
+Feature2H: "Mode of workshop : 70% theory 30% handson"
  
 Feature2H: "The <b>DevOps For Managers Workshop</b> is a holistic, comprehensive program that covers DevOps concepts in detail."
 

@@ -51,12 +51,13 @@ TContentB:
 
                         
 
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/5.png
 
 
-socialTitle: Docker and Kubernetes Workshop
+socialTitle: Docker and Kubernetes
 
 Feature2: Kubernetes is the most popular open source container orchestration tool. It discards all the manual processes required in deploying and scaling of the containers. This is highly used in today’s world where microservices architecture is predominant. This hands-on workshop enables each of the participants with the practical knowledge of Kubernetes
+Feature2H: "Mode of workshop : 20% theory 80% handson"
 
 ---
 

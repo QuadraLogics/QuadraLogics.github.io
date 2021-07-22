@@ -64,7 +64,7 @@ socialTitle: Git Hands-on Workshop
 
 
 
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/10.png
 
 
  

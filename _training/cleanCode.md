@@ -44,7 +44,7 @@ Feature2: “Even bad code can function. But if code isn't clean, it can bring a
 
 socialTitle: Clean and Secure Coding
 
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/8.png
 
 
  

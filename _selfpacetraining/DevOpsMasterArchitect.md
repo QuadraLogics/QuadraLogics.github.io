@@ -74,7 +74,7 @@ certificateLink: https://devopsmasterclass.github.io/img/portfolio/master.jpg
 certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 
 socialTitle: DevOps Master Workshop
-SocialImage: /img/trng/dmaV2.jpg
+SocialImage: /img/trng/ws/2.png
 
 RateIndia: Rs 12,500
 RateAbroad: $ 250

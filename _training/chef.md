@@ -41,8 +41,9 @@ TContentB:
 
 
 socialTitle: Infra as Code with Chef
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/6.png
 
+Feature2H: "Mode of workshop : 20% theory 80% handson"
 
  
 Feature2H: Infra as Code with Chef

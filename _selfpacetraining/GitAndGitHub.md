@@ -94,8 +94,8 @@ certificateHeader: Sample certificate and Badge
 certificateLink: https://devopsmasterclass.github.io/img/portfolio/master.jpg
 certificateBadgeLink: ../img/badges/9toolsbadge.jpg
 
-socialTitle: Git and Github Actions for CI/CD
-SocialImage: /img/trng/dmaV2.jpg
+socialTitle: Git & Github Actions 
+SocialImage: /img/trng/ws/1.png
 
 RateIndia: Rs 5000
 RateAbroad: $ 100

@@ -54,7 +54,7 @@ Feature2: Jenkins is an open source automation server which helps automate activ
 socialTitle: CI/CD Pipeline Using Jenkins 
 
 
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/12.png
 
 
  

@@ -44,9 +44,9 @@ TContentB:
 
 
 socialTitle: Ansible Workshop
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/1.png
 
-
+Feature2H: "Mode of workshop : 20% theory 80% handson"
  
 Feature2H: "<span>Mastering  Infrastructure as Code  using Ansible </span> is a holistic, comprehensive program <span>that covers practical aspects of IaC and how can it be implemented using Ansible.</span>"
 

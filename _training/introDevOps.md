@@ -50,10 +50,10 @@ TContentB:
 
                         
 
-
+Feature2H: "Mode of workshop : 70% theory  30% demo"
 
 socialTitle: Introduction to DevOps 
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/11.png
 
 
  

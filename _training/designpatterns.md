@@ -50,11 +50,11 @@ Feature2H: Software Design Principles and Patterns
 
 Feature2: The Workshop offers a comprehensive introduction to Design Principles and design patterns, with a focus on patterns that have proven over the last decade to be most effective at addressing real-world software design problems
  
+Feature2H: "Mode of workshop : 40% theory 60% handson"
 
+socialTitle: Software Design  Patterns
 
-socialTitle: Software Design Principles and Patterns
-
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/9.png
 
 
  

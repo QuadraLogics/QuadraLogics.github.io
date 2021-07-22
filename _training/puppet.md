@@ -42,9 +42,9 @@ TContentB:
 
 
 socialTitle: Programming Puppet
-SocialImage: /img/trng/devops.png
+SocialImage: /img/trng/ws/13.png
 
-
+Feature2H: "Mode of workshop : 30% theory 70% handson"
  
 Feature2H: Programming Puppet
 
